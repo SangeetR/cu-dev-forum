@@ -1,4 +1,4 @@
-#Cu-Dev-Forum
+# Cu-Dev-Forum
 ### A developer forum for CURAJ
 
 1. __init__.py : This is app initialization file 
