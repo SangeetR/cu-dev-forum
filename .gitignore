@@ -2,5 +2,4 @@ expr
 forum.db
 .vscode
 forum
-devForum/__pycache__/__init__.cpython-39.pyc
-devForum/__pycache__/db.cpython-39.pyc
+devForum/__pycache__/
